@@ -1,6 +1,6 @@
 ---
 title: "Notebook Lisa"
-format: html
+format: gfm
 editor: visual
 ---
 
